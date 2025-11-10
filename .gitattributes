@@ -1,7 +1,7 @@
 # Ignore HTML templates in language stats
 *.html linguist-detectable=false
-*.javaScript linguist-detectable=false
+*.JavaScript linguist-detectable=false
 
 # Force certain folders to count as specific languages
 *.R linguist-language=R
-*.py linguist-language=Python
+
